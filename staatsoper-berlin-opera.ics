@@ -1,0 +1,458 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Opera Schedules//Staatsoper Berlin//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Staatsoper Unter den Linden - Opern
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:fdb52b1a6f99edd3c3afc034a866ff73@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261108T180000
+DTEND;TZID=Europe/Berlin:20261108T211500
+SUMMARY:La Calisto
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Offizielle Dauer 3:15 h\nQuelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:581232597f2a669e63e68f627197d7a0@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261113T190000
+DTEND;TZID=Europe/Berlin:20261113T221500
+SUMMARY:La Calisto
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Offizielle Dauer 3:15 h\nQuelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06b6025c9a0a10ff28512bfd26679842@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261115T180000
+DTEND;TZID=Europe/Berlin:20261115T211500
+SUMMARY:La Calisto
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Offizielle Dauer 3:15 h\nQuelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e1d0a6c1c68d3e6bf442b326fc10ed@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261118T190000
+DTEND;TZID=Europe/Berlin:20261118T221500
+SUMMARY:La Calisto
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Offizielle Dauer 3:15 h\nQuelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:970a344cfbf7bc84e1d9a9e39e438d02@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261121T190000
+DTEND;TZID=Europe/Berlin:20261121T221500
+SUMMARY:La Calisto
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Offizielle Dauer 3:15 h\nQuelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:La Calisto - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e213d018f476d316a6fb817f34e83fc6@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261112T193000
+DTEND;TZID=Europe/Berlin:20261112T210000
+SUMMARY:Orfeo ed Euridice
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36582c47ee3f3773c5d1b6c39c306e54@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261114T193000
+DTEND;TZID=Europe/Berlin:20261114T210000
+SUMMARY:Orfeo ed Euridice
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orfeo ed Euridice - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8483a344ee031f2ce0b7cc3df52945c1@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261120T190000
+DTEND;TZID=Europe/Berlin:20261120T220000
+SUMMARY:L’incoronazione di Poppea
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2b9f2fcc534888992718d9f1069825@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261122T180000
+DTEND;TZID=Europe/Berlin:20261122T210000
+SUMMARY:L’incoronazione di Poppea
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5704ecf2bca90c0e238044d8c4b1a3be@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T220000
+SUMMARY:L’incoronazione di Poppea
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e62e976d0d675751d01aa3b0dde522d1@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261126T190000
+DTEND;TZID=Europe/Berlin:20261126T220000
+SUMMARY:L’incoronazione di Poppea
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:L’incoronazione di Poppea - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6711792a5efe4fda324b8474c787ebde@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261125T193000
+DTEND;TZID=Europe/Berlin:20261125T210000
+SUMMARY:Dido & Aeneas
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fc8e4cc5941514d58ee10400443a26@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261127T193000
+DTEND;TZID=Europe/Berlin:20261127T210000
+SUMMARY:Dido & Aeneas
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dido & Aeneas - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8bfff6fa50c1ef2d23e0671fa603b47f@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261128T193000
+DTEND;TZID=Europe/Berlin:20261128T223000
+SUMMARY:Tosca
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tosca - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tosca - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tosca - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tosca - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51eb9a943d1cd0967a94ed8d0a30ccdd@opera-schedules
+DTSTAMP:20261108T165806Z
+DTSTART;TZID=Europe/Berlin:20261129T180000
+DTEND;TZID=Europe/Berlin:20261129T210000
+SUMMARY:Die Zauberflöte
+LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
+DESCRIPTION:Dauer provisorisch\nQuelle: https://www.staatsoper-berlin.de/de/spielplan/
+URL:https://www.staatsoper-berlin.de/de/spielplan/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Die Zauberflöte - Staatsoper Berlin
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Die Zauberflöte - Staatsoper Berlin
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Die Zauberflöte - Staatsoper Berlin
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Die Zauberflöte - Staatsoper Berlin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
