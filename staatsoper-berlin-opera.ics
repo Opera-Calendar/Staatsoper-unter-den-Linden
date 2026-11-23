@@ -7,41 +7,9 @@ X-WR-CALNAME:Staatsoper Unter den Linden – Opern
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:L’incoronazione di Poppea
-DTSTART;TZID=Europe/Berlin:20261122T180000
-DTEND;TZID=Europe/Berlin:20261122T214500
-DTSTAMP:20261122T060131Z
-UID:637c072cf6ec5521f7e5d6fbd25de31b@opera-calendar
-DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
- www.staatsoper-berlin.de/de/veranstaltungen/l-incoronazione-di-poppea.94/
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/l-incoronazione-di
- -poppea.94/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:L’incoronazione di Poppea – Staatsoper Berlin
-TRIGGER:-P90D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:L’incoronazione di Poppea – Staatsoper Berlin
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:L’incoronazione di Poppea – Staatsoper Berlin
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:L’incoronazione di Poppea – Staatsoper Berlin
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’incoronazione di Poppea
 DTSTART;TZID=Europe/Berlin:20261124T190000
 DTEND;TZID=Europe/Berlin:20261124T224500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d9b4c583cfb9a5a2c31eb983d1aadcad@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/l-incoronazione-di-poppea.94/
@@ -73,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Dido & Aeneas
 DTSTART;TZID=Europe/Berlin:20261125T193000
 DTEND;TZID=Europe/Berlin:20261125T211500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:afac9a443c212a31db4e6a8ffd04854e@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/dido-aeneas.7528/
@@ -104,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:L’incoronazione di Poppea
 DTSTART;TZID=Europe/Berlin:20261126T190000
 DTEND;TZID=Europe/Berlin:20261126T224500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:186feed6fcd5d99c4c5011bf6b625250@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/l-incoronazione-di-poppea.94/
@@ -136,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Dido & Aeneas
 DTSTART;TZID=Europe/Berlin:20261127T193000
 DTEND;TZID=Europe/Berlin:20261127T211500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:ee46e374e3e9650c508261c32d346f86@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/dido-aeneas.7528/
@@ -167,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20261128T193000
 DTEND;TZID=Europe/Berlin:20261128T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:3e7899815a321c4086962f87a0d07de3@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -198,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261129T180000
 DTEND;TZID=Europe/Berlin:20261129T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:b9a1e7adda3108795642b51e4f2ea7e8@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -230,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261201T110000
 DTEND;TZID=Europe/Berlin:20261201T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a39d53878ff672033f95b70b617d381f@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -262,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20261202T193000
 DTEND;TZID=Europe/Berlin:20261202T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:9de051833155f4cc28734650ebac1ef9@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -293,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261203T190000
 DTEND;TZID=Europe/Berlin:20261203T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:1d5cd95a02c808a134aadba1a40680df@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -325,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261204T193000
 DTEND;TZID=Europe/Berlin:20261204T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:938e05c7922c201b315fc947df993f97@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -356,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261205T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:2928f1d2781baabd1865045c27794ea5@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -388,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261206T180000
 DTEND;TZID=Europe/Berlin:20261206T202500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:3bf5caa627102ad6e3f36a154b00278c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -419,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261210T193000
 DTEND;TZID=Europe/Berlin:20261210T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:fe0c66340c01afe0d932fb15ed7d595e@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -450,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261212T193000
 DTEND;TZID=Europe/Berlin:20261212T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:9104cbb24f89395ee28a065c5f643906@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -481,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Nabucco
 DTSTART;TZID=Europe/Berlin:20261214T193000
 DTEND;TZID=Europe/Berlin:20261214T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:86ac67038161a3fc6a44e3ef546f9583@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/nabucco.15505/
@@ -512,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261215T190000
 DTEND;TZID=Europe/Berlin:20261215T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:c7c94498a28c62756bab341193e4b281@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -544,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:Der Freischütz für Kinder
 DTSTART;TZID=Europe/Berlin:20261216T110000
 DTEND;TZID=Europe/Berlin:20261216T121500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:25244086f368a03b7ba1fca9641946da@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/der-freischuetz-fuer-kinder.15
@@ -577,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261216T193000
 DTEND;TZID=Europe/Berlin:20261216T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:39a47168580dfe39f721f1d948d4a4c5@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -608,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Der Freischütz für Kinder
 DTSTART;TZID=Europe/Berlin:20261217T110000
 DTEND;TZID=Europe/Berlin:20261217T121500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f6baedbd6f4de78c2bbdb1c3322c9a1c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/der-freischuetz-fuer-kinder.15
@@ -641,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Nabucco
 DTSTART;TZID=Europe/Berlin:20261217T193000
 DTEND;TZID=Europe/Berlin:20261217T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:6b6e606739d7a2b70cc9bb90272ac8d5@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/nabucco.15505/
@@ -672,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Der Freischütz für Kinder
 DTSTART;TZID=Europe/Berlin:20261218T110000
 DTEND;TZID=Europe/Berlin:20261218T121500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:11962ff0a2b7ec6f07d61929c36362b9@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/der-freischuetz-fuer-kinder.15
@@ -705,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261219T193000
 DTEND;TZID=Europe/Berlin:20261219T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:ae11aaccb5fb96bec77d653e5ba8dbb0@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -736,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Nabucco
 DTSTART;TZID=Europe/Berlin:20261220T180000
 DTEND;TZID=Europe/Berlin:20261220T204000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:fd52ae9e6cd886301af83a72aefd24eb@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/nabucco.15505/
@@ -767,7 +735,7 @@ BEGIN:VEVENT
 SUMMARY:Nabucco
 DTSTART;TZID=Europe/Berlin:20261222T193000
 DTEND;TZID=Europe/Berlin:20261222T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:faeb3cf3f6b6ac2347198211bb1d7674@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/nabucco.15505/
@@ -798,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261223T193000
 DTEND;TZID=Europe/Berlin:20261223T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f4571a7c6e8675691340b395ec668bd2@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -829,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261225T180000
 DTEND;TZID=Europe/Berlin:20261225T202500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:eb6cf6a2631672273d2c9aa5ea779cfb@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -860,7 +828,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261226T140000
 DTEND;TZID=Europe/Berlin:20261226T170000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f8c7a981b005507e83f634eaa94a762c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -892,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261226T190000
 DTEND;TZID=Europe/Berlin:20261226T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a10654c91b464c5fd4f9d4eb2e53388a@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -924,7 +892,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20261227T180000
 DTEND;TZID=Europe/Berlin:20261227T202500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:09b5e8764a64b358e96b37cf6b5e40fd@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -955,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261229T190000
 DTEND;TZID=Europe/Berlin:20261229T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:3a5b8fda0363b8e45ab7fb6a813e5961@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -987,7 +955,7 @@ BEGIN:VEVENT
 SUMMARY:La Bohème
 DTSTART;TZID=Europe/Berlin:20270102T193000
 DTEND;TZID=Europe/Berlin:20270102T215500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:2f9e2ab4f7c929a87ef9729b87350be3@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
@@ -1018,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20270103T180000
 DTEND;TZID=Europe/Berlin:20270103T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:693753e0396e5fa21493af3a5bda9e50@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -1050,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20270106T190000
 DTEND;TZID=Europe/Berlin:20270106T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a2ceaef5880ef59e1c5c9ba2783c54e6@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -1082,7 +1050,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270107T193000
 DTEND;TZID=Europe/Berlin:20270107T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:22df355ee8f844bb20a07ae7f31aaffe@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1113,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20270108T193000
 DTEND;TZID=Europe/Berlin:20270108T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a98af5707b6b3d99102cc793b9e655b5@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -1144,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270109T193000
 DTEND;TZID=Europe/Berlin:20270109T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:dcbb73462f79e8d02cab31d0f5e32592@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1175,7 +1143,7 @@ BEGIN:VEVENT
 SUMMARY:Salome
 DTSTART;TZID=Europe/Berlin:20270110T180000
 DTEND;TZID=Europe/Berlin:20270110T194000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:7f025c287cb0ea72be6716668e66a9a8@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/salome.96/
@@ -1206,7 +1174,7 @@ BEGIN:VEVENT
 SUMMARY:Salome
 DTSTART;TZID=Europe/Berlin:20270114T193000
 DTEND;TZID=Europe/Berlin:20270114T211000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:33784a62b41dd999b2b6b942ba629844@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/salome.96/
@@ -1237,7 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20270115T193000
 DTEND;TZID=Europe/Berlin:20270115T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:8ef8eb94d0d89ea0571721cdf82e754d@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -1268,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270116T193000
 DTEND;TZID=Europe/Berlin:20270116T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:c1b62bcd734c7550bcba551a92c130a1@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1299,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:Salome
 DTSTART;TZID=Europe/Berlin:20270117T180000
 DTEND;TZID=Europe/Berlin:20270117T194000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:661ad83d6c5a5a083987bd913efafdb3@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/salome.96/
@@ -1330,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20270120T193000
 DTEND;TZID=Europe/Berlin:20270120T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:501e1418f652eabfe26518d4db08c1aa@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -1361,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270121T110000
 DTEND;TZID=Europe/Berlin:20270121T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:ae723abac608f092bdc02e6a2af785ad@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -1394,7 +1362,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270121T193000
 DTEND;TZID=Europe/Berlin:20270121T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d644f75d355b38ea29e37cedf0dcebd2@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1425,7 +1393,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270122T110000
 DTEND;TZID=Europe/Berlin:20270122T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:3cb8ba9c3ce6a1216cfb336a7e14380c@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -1458,7 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:Salome
 DTSTART;TZID=Europe/Berlin:20270123T193000
 DTEND;TZID=Europe/Berlin:20270123T211000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:72998c70662e6118ca0f1fa90ad4f59f@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/salome.96/
@@ -1489,7 +1457,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270124T110000
 DTEND;TZID=Europe/Berlin:20270124T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d1445549a0cdfa513fabefa5706866d7@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -1522,7 +1490,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20270124T180000
 DTEND;TZID=Europe/Berlin:20270124T203000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f98f36bb51131763c1ce8908a8a3cfee@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -1553,7 +1521,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270126T110000
 DTEND;TZID=Europe/Berlin:20270126T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:bb7303ceb98d520aeb096effea1474e5@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -1586,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:Salome
 DTSTART;TZID=Europe/Berlin:20270126T193000
 DTEND;TZID=Europe/Berlin:20270126T211000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:5612293b404fb9a8f074710ee1a7e6c6@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/salome.96/
@@ -1617,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270128T110000
 DTEND;TZID=Europe/Berlin:20270128T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a854468c44c841fdc6235ec01a7aba1a@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -1650,7 +1618,7 @@ BEGIN:VEVENT
 SUMMARY:Salome
 DTSTART;TZID=Europe/Berlin:20270129T193000
 DTEND;TZID=Europe/Berlin:20270129T211000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:4c1f72ccad09e4017807601bd4c3f17e@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/salome.96/
@@ -1681,7 +1649,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20270130T193000
 DTEND;TZID=Europe/Berlin:20270130T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e2879b881c9fdb1d7d25fbd55fae68f6@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -1712,7 +1680,7 @@ BEGIN:VEVENT
 SUMMARY:Die Entführung aus dem Serail
 DTSTART;TZID=Europe/Berlin:20270131T180000
 DTEND;TZID=Europe/Berlin:20270131T211000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:0564b90c374c04118541b53fe5aa4481@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus-dem-serail
@@ -1745,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:Die Entführung aus dem Serail
 DTSTART;TZID=Europe/Berlin:20270202T190000
 DTEND;TZID=Europe/Berlin:20270202T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e9457800613b68c50a8bc61835e33a02@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus-dem-serail
@@ -1778,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270203T193000
 DTEND;TZID=Europe/Berlin:20270203T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:4e2f62a8d0543bb6c530b6fe9d080358@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1809,7 +1777,7 @@ BEGIN:VEVENT
 SUMMARY:Tosca
 DTSTART;TZID=Europe/Berlin:20270205T193000
 DTEND;TZID=Europe/Berlin:20270205T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:475f63b189cd5e56c949d700f93f2f34@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
@@ -1840,7 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:Die Entführung aus dem Serail
 DTSTART;TZID=Europe/Berlin:20270207T190000
 DTEND;TZID=Europe/Berlin:20270207T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:2efcd1f4cc33f74d44beae40b64ca406@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus-dem-serail
@@ -1873,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:Die Entführung aus dem Serail
 DTSTART;TZID=Europe/Berlin:20270209T190000
 DTEND;TZID=Europe/Berlin:20270209T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:4fad8609419b5e990890491b2c0d4a85@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus-dem-serail
@@ -1906,7 +1874,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270210T193000
 DTEND;TZID=Europe/Berlin:20270210T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e10edae5c1a5eda49da49976026f5679@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1937,7 +1905,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270213T193000
 DTEND;TZID=Europe/Berlin:20270213T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:6d66df8951f59e0cf89cbcff24fc87f9@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -1968,7 +1936,7 @@ BEGIN:VEVENT
 SUMMARY:Die Entführung aus dem Serail
 DTSTART;TZID=Europe/Berlin:20270217T190000
 DTEND;TZID=Europe/Berlin:20270217T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f9cfcc0d998e34a76f78d65c8392f2df@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus-dem-serail
@@ -2001,7 +1969,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270219T193000
 DTEND;TZID=Europe/Berlin:20270219T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:b222083e5fa8efa3e5f03c49527eb206@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -2032,7 +2000,7 @@ BEGIN:VEVENT
 SUMMARY:Tristan und Isolde
 DTSTART;TZID=Europe/Berlin:20270220T160000
 DTEND;TZID=Europe/Berlin:20270220T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e44f74e6a173bbdcd5463e6925a3592a@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tristan-und-isolde.27700/
@@ -2064,7 +2032,7 @@ BEGIN:VEVENT
 SUMMARY:Tristan und Isolde
 DTSTART;TZID=Europe/Berlin:20270225T160000
 DTEND;TZID=Europe/Berlin:20270225T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:daeae52c387f7f223b8613c17aa1a24f@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tristan-und-isolde.27700/
@@ -2096,7 +2064,7 @@ BEGIN:VEVENT
 SUMMARY:Tristan und Isolde
 DTSTART;TZID=Europe/Berlin:20270228T160000
 DTEND;TZID=Europe/Berlin:20270228T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:2630aab50eec555fbe7d2e36358b80ad@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tristan-und-isolde.27700/
@@ -2128,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:Les Contes d’Hoffmann
 DTSTART;TZID=Europe/Berlin:20270303T190000
 DTEND;TZID=Europe/Berlin:20270303T223000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e3833b0611f8590c74df76fab84e297a@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-contes-d-hoffmann.21881/
@@ -2160,7 +2128,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270304T193000
 DTEND;TZID=Europe/Berlin:20270304T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:bac89b9691638349bca541ec05dcb5a1@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -2191,7 +2159,7 @@ BEGIN:VEVENT
 SUMMARY:Les Contes d’Hoffmann
 DTSTART;TZID=Europe/Berlin:20270305T190000
 DTEND;TZID=Europe/Berlin:20270305T223000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:967bd9c0374eaa5b7423a6cb69402c4a@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-contes-d-hoffmann.21881/
@@ -2223,7 +2191,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270306T193000
 DTEND;TZID=Europe/Berlin:20270306T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:1f9462f464066e9095bc4cdeae8a76e4@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -2254,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:Les Contes d’Hoffmann
 DTSTART;TZID=Europe/Berlin:20270308T180000
 DTEND;TZID=Europe/Berlin:20270308T213000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:c59c312bc79cb74685cf7792d61100d9@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-contes-d-hoffmann.21881/
@@ -2286,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:La traviata
 DTSTART;TZID=Europe/Berlin:20270313T193000
 DTEND;TZID=Europe/Berlin:20270313T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:1b561f49efe944364398e8c4af3b593e@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
@@ -2317,7 +2285,7 @@ BEGIN:VEVENT
 SUMMARY:Les Contes d’Hoffmann
 DTSTART;TZID=Europe/Berlin:20270314T180000
 DTEND;TZID=Europe/Berlin:20270314T213000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:b1a3d1fa50b6e94c384ba2cf1f0b3809@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-contes-d-hoffmann.21881/
@@ -2349,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:Tannhäuser
 DTSTART;TZID=Europe/Berlin:20270320T160000
 DTEND;TZID=Europe/Berlin:20270320T202500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:c6c1584ca87872aa770e279079f26dc7@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tannhaeuser.20/
@@ -2380,7 +2348,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270321T180000
 DTEND;TZID=Europe/Berlin:20270321T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:4b748f5bf7123e87c8c04c0d1519a8da@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -2413,7 +2381,7 @@ BEGIN:VEVENT
 SUMMARY:Tannhäuser
 DTSTART;TZID=Europe/Berlin:20270323T160000
 DTEND;TZID=Europe/Berlin:20270323T202500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:620feac35c61c2c63f5ccff4bf3c6f83@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tannhaeuser.20/
@@ -2444,7 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270324T190000
 DTEND;TZID=Europe/Berlin:20270324T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:85f0f2a7366e68b54d85b2c2fd9375f2@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -2477,7 +2445,7 @@ BEGIN:VEVENT
 SUMMARY:Tannhäuser
 DTSTART;TZID=Europe/Berlin:20270326T160000
 DTEND;TZID=Europe/Berlin:20270326T202500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:fc04eb8239b6ae7665668a87af14ee01@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/tannhaeuser.20/
@@ -2508,7 +2476,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270327T190000
 DTEND;TZID=Europe/Berlin:20270327T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:81df86a3d1eed866b811ef9f33dd28d0@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -2541,7 +2509,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270329T190000
 DTEND;TZID=Europe/Berlin:20270329T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d091f3dc42cd84e04dfafa0df3a3fe9d@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -2574,7 +2542,7 @@ BEGIN:VEVENT
 SUMMARY:Les pêcheurs de perles
 DTSTART;TZID=Europe/Berlin:20270402T193000
 DTEND;TZID=Europe/Berlin:20270402T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:7b6a8835db366419a18b0b02611e1d13@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-pecheurs-de-perles.3/
@@ -2606,7 +2574,7 @@ BEGIN:VEVENT
 SUMMARY:Norma
 DTSTART;TZID=Europe/Berlin:20270403T190000
 DTEND;TZID=Europe/Berlin:20270403T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:014f106c412cc54d8c265675a1c1044c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/norma.15538/
@@ -2637,7 +2605,7 @@ BEGIN:VEVENT
 SUMMARY:Les pêcheurs de perles
 DTSTART;TZID=Europe/Berlin:20270404T180000
 DTEND;TZID=Europe/Berlin:20270404T203000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f38c1ecc70134040345f8e78d1efe58c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-pecheurs-de-perles.3/
@@ -2669,7 +2637,7 @@ BEGIN:VEVENT
 SUMMARY:Les pêcheurs de perles
 DTSTART;TZID=Europe/Berlin:20270407T193000
 DTEND;TZID=Europe/Berlin:20270407T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:ed118897ec5e92e87481bd692162f36b@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-pecheurs-de-perles.3/
@@ -2701,7 +2669,7 @@ BEGIN:VEVENT
 SUMMARY:Ariadne auf Naxos
 DTSTART;TZID=Europe/Berlin:20270408T193000
 DTEND;TZID=Europe/Berlin:20270408T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:267d64b3511542eac6db41ec9db19881@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/ariadne-auf-naxos.21/
@@ -2733,7 +2701,7 @@ BEGIN:VEVENT
 SUMMARY:Norma
 DTSTART;TZID=Europe/Berlin:20270409T190000
 DTEND;TZID=Europe/Berlin:20270409T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:bbf0387473a373311c70d13dc820f83b@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/norma.15538/
@@ -2764,7 +2732,7 @@ BEGIN:VEVENT
 SUMMARY:Les pêcheurs de perles
 DTSTART;TZID=Europe/Berlin:20270410T193000
 DTEND;TZID=Europe/Berlin:20270410T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:5fc4d1223efc510d4ade038a59f862f6@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-pecheurs-de-perles.3/
@@ -2796,7 +2764,7 @@ BEGIN:VEVENT
 SUMMARY:Norma
 DTSTART;TZID=Europe/Berlin:20270411T180000
 DTEND;TZID=Europe/Berlin:20270411T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:110d4c1b13462eb5b7cc17337aae3545@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/norma.15538/
@@ -2827,7 +2795,7 @@ BEGIN:VEVENT
 SUMMARY:Norma
 DTSTART;TZID=Europe/Berlin:20270416T190000
 DTEND;TZID=Europe/Berlin:20270416T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:3f04597ab57a3726cc5938be810266d5@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/norma.15538/
@@ -2858,7 +2826,7 @@ BEGIN:VEVENT
 SUMMARY:Ariadne auf Naxos
 DTSTART;TZID=Europe/Berlin:20270417T193000
 DTEND;TZID=Europe/Berlin:20270417T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:6168d4119b35c4d9ce3defde9cd9070c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/ariadne-auf-naxos.21/
@@ -2890,7 +2858,7 @@ BEGIN:VEVENT
 SUMMARY:Les pêcheurs de perles
 DTSTART;TZID=Europe/Berlin:20270418T180000
 DTEND;TZID=Europe/Berlin:20270418T203000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a6838d0fd96451fa57dc0e2bd124d16c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-pecheurs-de-perles.3/
@@ -2922,7 +2890,7 @@ BEGIN:VEVENT
 SUMMARY:Ariadne auf Naxos
 DTSTART;TZID=Europe/Berlin:20270422T193000
 DTEND;TZID=Europe/Berlin:20270422T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:de0b002c44365109f0535bf43d4b395d@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/ariadne-auf-naxos.21/
@@ -2954,7 +2922,7 @@ BEGIN:VEVENT
 SUMMARY:Les pêcheurs de perles
 DTSTART;TZID=Europe/Berlin:20270423T193000
 DTEND;TZID=Europe/Berlin:20270423T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:2bb257981d0b8837002b3b4803f276e8@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/les-pecheurs-de-perles.3/
@@ -2986,7 +2954,7 @@ BEGIN:VEVENT
 SUMMARY:Rigoletto
 DTSTART;TZID=Europe/Berlin:20270424T193000
 DTEND;TZID=Europe/Berlin:20270424T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:6d979f23180cbad9b238d2c1af34c219@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/rigoletto.2774/
@@ -3017,7 +2985,7 @@ BEGIN:VEVENT
 SUMMARY:Ariadne auf Naxos
 DTSTART;TZID=Europe/Berlin:20270425T180000
 DTEND;TZID=Europe/Berlin:20270425T204000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:aff6012b82d0de2b45c5a13715296d8d@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/ariadne-auf-naxos.21/
@@ -3049,7 +3017,7 @@ BEGIN:VEVENT
 SUMMARY:Rigoletto
 DTSTART;TZID=Europe/Berlin:20270428T193000
 DTEND;TZID=Europe/Berlin:20270428T221000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f36187da9495898106a7ec05942b310a@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/rigoletto.2774/
@@ -3080,7 +3048,7 @@ BEGIN:VEVENT
 SUMMARY:La Vestale
 DTSTART;TZID=Europe/Berlin:20270430T190000
 DTEND;TZID=Europe/Berlin:20270430T222500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e0511f9cfa9e3c3ded468d44d35635e7@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-vestale.27273/
@@ -3111,7 +3079,7 @@ BEGIN:VEVENT
 SUMMARY:Königskinder
 DTSTART;TZID=Europe/Berlin:20270501T170000
 DTEND;TZID=Europe/Berlin:20270501T200000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:4b956b62ad0b111bb67769cc67c09a5e@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/koenigskinde
@@ -3144,7 +3112,7 @@ BEGIN:VEVENT
 SUMMARY:Rigoletto
 DTSTART;TZID=Europe/Berlin:20270502T180000
 DTEND;TZID=Europe/Berlin:20270502T204000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:6fad291cb87ddda8b52575f5876c571b@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/rigoletto.2774/
@@ -3175,7 +3143,7 @@ BEGIN:VEVENT
 SUMMARY:Königskinder
 DTSTART;TZID=Europe/Berlin:20270505T183000
 DTEND;TZID=Europe/Berlin:20270505T213000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:870e594af33230c17ead9b8402e1c108@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/koenigskinde
@@ -3208,7 +3176,7 @@ BEGIN:VEVENT
 SUMMARY:La Vestale
 DTSTART;TZID=Europe/Berlin:20270506T190000
 DTEND;TZID=Europe/Berlin:20270506T222500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:b347c85268145ac494f7a8fcea8ec528@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-vestale.27273/
@@ -3239,7 +3207,7 @@ BEGIN:VEVENT
 SUMMARY:Königskinder
 DTSTART;TZID=Europe/Berlin:20270507T183000
 DTEND;TZID=Europe/Berlin:20270507T213000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:a49757f844d061f7cc3b2f5d3559e953@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/koenigskinde
@@ -3272,7 +3240,7 @@ BEGIN:VEVENT
 SUMMARY:La Vestale
 DTSTART;TZID=Europe/Berlin:20270508T190000
 DTEND;TZID=Europe/Berlin:20270508T222500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:caad7c191dc95f8b4e11e7ee2874e633@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/la-vestale.27273/
@@ -3303,7 +3271,7 @@ BEGIN:VEVENT
 SUMMARY:Königskinder
 DTSTART;TZID=Europe/Berlin:20270509T170000
 DTEND;TZID=Europe/Berlin:20270509T200000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d856ff8064cd5095f160a7e1a291a710@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/koenigskinde
@@ -3336,7 +3304,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20270515T190000
 DTEND;TZID=Europe/Berlin:20270515T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:0a30c613246da15e56b2c3d1c4d305e5@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -3368,7 +3336,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20270517T180000
 DTEND;TZID=Europe/Berlin:20270517T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:17cc97c8e45760635ce6bc2e15d7b08e@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -3400,7 +3368,7 @@ BEGIN:VEVENT
 SUMMARY:Königskinder
 DTSTART;TZID=Europe/Berlin:20270520T183000
 DTEND;TZID=Europe/Berlin:20270520T213000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d52f5148946af1c4169ae91dd986673d@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/koenigskinde
@@ -3433,7 +3401,7 @@ BEGIN:VEVENT
 SUMMARY:La forza del destino
 DTSTART;TZID=Europe/Berlin:20270522T180000
 DTEND;TZID=Europe/Berlin:20270522T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:04ffe544e9309baf627098f79feef220@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del
@@ -3466,7 +3434,7 @@ BEGIN:VEVENT
 SUMMARY:La forza del destino
 DTSTART;TZID=Europe/Berlin:20270528T190000
 DTEND;TZID=Europe/Berlin:20270528T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:bac325db54f70fd666ee5d7e67d64242@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del
@@ -3499,7 +3467,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20270529T190000
 DTEND;TZID=Europe/Berlin:20270529T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:7226792e6a1e0e9315bd214e84598c7c@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
@@ -3531,7 +3499,7 @@ BEGIN:VEVENT
 SUMMARY:La forza del destino
 DTSTART;TZID=Europe/Berlin:20270530T180000
 DTEND;TZID=Europe/Berlin:20270530T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:53ecbe92434eba0317c1a5950214d57e@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del
@@ -3564,7 +3532,7 @@ BEGIN:VEVENT
 SUMMARY:La forza del destino
 DTSTART;TZID=Europe/Berlin:20270602T190000
 DTEND;TZID=Europe/Berlin:20270602T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:b8e4a73722d7759a244021a4f63d22d0@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del
@@ -3597,7 +3565,7 @@ BEGIN:VEVENT
 SUMMARY:La forza del destino
 DTSTART;TZID=Europe/Berlin:20270606T180000
 DTEND;TZID=Europe/Berlin:20270606T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:f19ffdfd96381b0f7c1379728c8f1f0c@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del
@@ -3630,7 +3598,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zarenbraut
 DTSTART;TZID=Europe/Berlin:20270612T180000
 DTEND;TZID=Europe/Berlin:20270612T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:ddf5284f2a8e1ad647c71c107ce4980a@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-zarenbra
@@ -3663,7 +3631,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270614T100000
 DTEND;TZID=Europe/Berlin:20270614T130000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:65a3cf4b82acad2c6aa20aaab6d12235@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -3696,7 +3664,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zarenbraut
 DTSTART;TZID=Europe/Berlin:20270615T190000
 DTEND;TZID=Europe/Berlin:20270615T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:bdd776e8fe793c698cb0f3ec10787da1@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-zarenbra
@@ -3729,7 +3697,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270617T110000
 DTEND;TZID=Europe/Berlin:20270617T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:4b69b94ffa8048ead0764d8ed06425b6@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -3762,7 +3730,7 @@ BEGIN:VEVENT
 SUMMARY:Idomeneo
 DTSTART;TZID=Europe/Berlin:20270617T190000
 DTEND;TZID=Europe/Berlin:20270617T224500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:81cb59e8f08c88448e11915f71f4ea59@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/idomeneo.7542/
@@ -3793,7 +3761,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zarenbraut
 DTSTART;TZID=Europe/Berlin:20270618T190000
 DTEND;TZID=Europe/Berlin:20270618T220000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:14730351b8433a4b6f13f2bb2126bc8c@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-zarenbra
@@ -3826,7 +3794,7 @@ BEGIN:VEVENT
 SUMMARY:Idomeneo
 DTSTART;TZID=Europe/Berlin:20270619T190000
 DTEND;TZID=Europe/Berlin:20270619T224500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:1b43948c735e9f4f317d28fdbfd94bda@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/idomeneo.7542/
@@ -3857,7 +3825,7 @@ BEGIN:VEVENT
 SUMMARY:Die Zarenbraut
 DTSTART;TZID=Europe/Berlin:20270620T180000
 DTEND;TZID=Europe/Berlin:20270620T210000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:1727b7b6f3821686640a7dd362f54b49@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-zarenbra
@@ -3890,7 +3858,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270626T193000
 DTEND;TZID=Europe/Berlin:20270626T223000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:78458534a225aeb6c029cfb3950b59e6@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -3923,7 +3891,7 @@ BEGIN:VEVENT
 SUMMARY:Die Fledermaus für Kinder
 DTSTART;TZID=Europe/Berlin:20270627T110000
 DTEND;TZID=Europe/Berlin:20270627T140000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:239c6c0550a0c4fc35d12588d2917e06@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/die-flederma
@@ -3956,7 +3924,7 @@ BEGIN:VEVENT
 SUMMARY:Idomeneo
 DTSTART;TZID=Europe/Berlin:20270627T180000
 DTEND;TZID=Europe/Berlin:20270627T214500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:2626d1befc8bc531fd4011b3ad2900d6@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/idomeneo.7542/
@@ -3987,7 +3955,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270629T193000
 DTEND;TZID=Europe/Berlin:20270629T223000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e06bc233cdb9f61df7e3aa4a10519530@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -4020,7 +3988,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270701T193000
 DTEND;TZID=Europe/Berlin:20270701T223000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:d2b1ac0b2c94cb588da9d90694211ac3@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -4053,7 +4021,7 @@ BEGIN:VEVENT
 SUMMARY:Manon Lescaut
 DTSTART;TZID=Europe/Berlin:20270703T193000
 DTEND;TZID=Europe/Berlin:20270703T223000
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:8a9e25d0d7fbdf8e822a71ceb2ee5293@opera-calendar
 DESCRIPTION:Opernvorstellung. Dauer nicht angegeben: 3 Stunden Platzhalter
  . Quelle: https://www.staatsoper-berlin.de/de/veranstaltungen/manon-lescau
@@ -4086,7 +4054,7 @@ BEGIN:VEVENT
 SUMMARY:Idomeneo
 DTSTART;TZID=Europe/Berlin:20270704T180000
 DTEND;TZID=Europe/Berlin:20270704T214500
-DTSTAMP:20261122T060131Z
+DTSTAMP:20261123T061105Z
 UID:e2f969d7a06dff2062f1d2f5036b66f6@opera-calendar
 DESCRIPTION:Opernvorstellung. Offiziell angegebene Dauer. Quelle: https://
  www.staatsoper-berlin.de/de/veranstaltungen/idomeneo.7542/
